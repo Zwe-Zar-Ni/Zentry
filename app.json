@@ -1,0 +1,78 @@
+{
+  "expo": {
+    "name": "zentry",
+    "slug": "zentry",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icons/ios-light.png",
+    "scheme": "zentry",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "icon": {
+        "dark": "./assets/images/icons/ios-dark.png",
+        "light": "./assets/images/icons/ios-light.png",
+        "tinted": "./assets/images/icons/ios-tinted.png"
+      },
+      "bundleIdentifier": "com.vaddshah2626.zentry"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icons/adaptive-icon.png",
+        "monochromeImage": "./assets/images/icons/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.vaddshah2626.zentry"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/icons/ios-dark.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-sqlite",
+        {
+          "enableFTS": true,
+          "useSQLCipher": true,
+          "android": {
+            "enableFTS": false,
+            "useSQLCipher": false
+          },
+          "ios": {
+            "customBuildFlags": [
+              "-DSQLITE_ENABLE_DBSTAT_VTAB=1 -DSQLITE_ENABLE_SNAPSHOT=1"
+            ]
+          }
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/icons/splash-icon-light.png",
+          "backgroundColor": "#ffffff",
+          "resizingMode": "contain",
+          "dark": {
+            "image": "./assets/images/icons/splash-icon-dark.png",
+            "backgroundColor": "#1A1A1A"
+          },
+          "imageWidth": 200
+        }
+      ],
+      "expo-sqlite"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "assetBundlePatterns": ["assets/**/*", "!external-assets/**/*"],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2e9f029a-a174-40f7-82a1-73a407709d4d"
+      }
+    }
+  }
+}

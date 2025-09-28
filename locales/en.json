@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "loginTitle": "Login to Your Account",
+    "registerTitle": "Create a New Account",
+    "loginLoading": "Logging in . . .",
+    "registerLoading": "Creating account . . .",
+    "noAccount": "Doesn't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "home": {
+    "noTransactions": "No Transactions found.",
+    "addTransaction": "Click the plus icon to add a new transaction.",
+    "confirmDelete": "Are you sure you want to delete this transaction?"
+  },
+  "stats": {
+    "title": "Statistics",
+    "monthlyChart": "Monthly Expense Analysis",
+    "monthlyDescription": "See how your spending compares month-to-month to improve budgeting decisions.",
+    "overTime": "Your Spending Over Time",
+    "overTimeDescription": "Track your spending patterns over time to identify trends and make informed financial decisions."
+  },
+  "budget": {
+    "title": "Monthly Budget Planner",
+    "description": "Set limits, track spending, and stay in control.",
+    "noBudget": "No Budget set."
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "currency": "Currency",
+    "darkMode": "Dark Mode",
+    "version": "Version"
+  },
+  "labels": {
+    "expense": "Expense",
+    "income": "Income",
+    "date": "Date",
+    "amount": "Amount",
+    "note": "Note",
+    "category": "Category",
+    "categories": "Categories",
+    "total": "Total",
+    "spent": "Spent",
+    "remaining": "Remaining",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password"
+  },
+  "actions": {
+    "save": "Save",
+    "logout": "Logout",
+    "signIn": "Sign In",
+    "createAccount": "Create Account",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "update": "Update"
+  }
+}

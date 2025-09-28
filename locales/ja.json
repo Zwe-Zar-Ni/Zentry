@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "loginTitle": "アカウントにログイン",
+    "registerTitle": "新規アカウント作成",
+    "loginLoading": "ログイン中...",
+    "registerLoading": "アカウント作成中...",
+    "noAccount": "アカウントをお持ちでない場合",
+    "haveAccount": "既にアカウントをお持ちですか？"
+  },
+  "home": {
+    "noTransactions": "取引履歴がありません",
+    "addTransaction": "＋アイコンをクリックして新しい取引を追加",
+    "confirmDelete": "この取引を削除しますか？"
+  },
+  "stats": {
+    "title": "統計",
+    "monthlyChart": "月別支出分析",
+    "monthlyDescription": "月ごとの支出を比較し、予算管理を改善しましょう",
+    "overTime": "支出の推移",
+    "overTimeDescription": "支出パターンを追跡し、傾向を把握して適切な財務判断を行いましょう"
+  },
+  "budget": {
+    "title": "月間予算プランナー",
+    "description": "予算を設定し、支出を追跡して管理しましょう",
+    "noBudget": "予算が設定されていません"
+  },
+  "settings": {
+    "title": "設定",
+    "language": "言語",
+    "currency": "通貨",
+    "darkMode": "ダークモード",
+    "version": "バージョン"
+  },
+  "labels": {
+    "expense": "支出",
+    "income": "収入",
+    "date": "日付",
+    "amount": "金額",
+    "note": "メモ",
+    "category": "カテゴリー",
+    "categories": "カテゴリー一覧",
+    "total": "合計",
+    "spent": "使用済み",
+    "remaining": "残り",
+    "name": "名前",
+    "email": "メールアドレス",
+    "password": "パスワード"
+  },
+  "actions": {
+    "save": "保存",
+    "logout": "ログアウト",
+    "signIn": "ログイン",
+    "createAccount": "アカウント作成",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "delete": "削除",
+    "update": "更新"
+  }
+}

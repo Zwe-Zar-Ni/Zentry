@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "loginTitle": "अपने खाते में लॉग इन करें",
+    "registerTitle": "नया खाता बनाएँ",
+    "loginLoading": "लॉग इन हो रहा है...",
+    "registerLoading": "खाता बनाया जा रहा है...",
+    "noAccount": "खाता नहीं है?",
+    "haveAccount": "पहले से खाता मौजूद है?"
+  },
+  "home": {
+    "noTransactions": "कोई लेन-देन नहीं मिला",
+    "addTransaction": "नया लेन-देन जोड़ने के लिए + आइकन पर क्लिक करें",
+    "confirmDelete": "क्या आप वाकई यह लेन-देन हटाना चाहते हैं?"
+  },
+  "stats": {
+    "title": "आँकड़े",
+    "monthlyChart": "मासिक खर्च विश्लेषण",
+    "monthlyDescription": "बेहतर बजट निर्णय के लिए महीने-दर-महीने अपने खर्च की तुलना करें",
+    "overTime": "समय के साथ आपका खर्च",
+    "overTimeDescription": "खर्च के पैटर्न को ट्रैक करें और सूचित वित्तीय निर्णय लें"
+  },
+  "budget": {
+    "title": "मासिक बजट योजनाकार",
+    "description": "सीमाएँ निर्धारित करें, खर्च ट्रैक करें, और नियंत्रण में रहें",
+    "noBudget": "कोई बजट सेट नहीं"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "language": "भाषा",
+    "currency": "मुद्रा",
+    "darkMode": "डार्क मोड",
+    "version": "वर्जन"
+  },
+  "labels": {
+    "expense": "खर्च",
+    "income": "आय",
+    "date": "तारीख",
+    "amount": "राशि",
+    "note": "नोट",
+    "category": "श्रेणी",
+    "categories": "श्रेणियाँ",
+    "total": "कुल",
+    "spent": "खर्च किया",
+    "remaining": "शेष",
+    "name": "नाम",
+    "email": "ईमेल",
+    "password": "पासवर्ड"
+  },
+  "actions": {
+    "save": "सहेजें",
+    "logout": "लॉग आउट",
+    "signIn": "साइन इन",
+    "createAccount": "खाता बनाएँ",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "delete": "हटाएँ",
+    "update": "अपडेट"
+  }
+}

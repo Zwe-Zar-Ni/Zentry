@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "loginTitle": "Connectez-vous à votre compte",
+    "registerTitle": "Créer un nouveau compte",
+    "loginLoading": "Connexion en cours...",
+    "registerLoading": "Création du compte...",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "haveAccount": "Vous avez déjà un compte ?"
+  },
+  "home": {
+    "noTransactions": "Aucune transaction trouvée.",
+    "addTransaction": "Cliquez sur l'icône plus pour ajouter une nouvelle transaction.",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer cette transaction ?"
+  },
+  "stats": {
+    "title": "Statistiques",
+    "monthlyChart": "Analyse des dépenses mensuelles",
+    "monthlyDescription": "Comparez vos dépenses mois par mois pour améliorer vos décisions budgétaires.",
+    "overTime": "Vos dépenses dans le temps",
+    "overTimeDescription": "Suivez l'évolution de vos dépenses pour identifier des tendances et prendre des décisions financières éclairées."
+  },
+  "budget": {
+    "title": "Planificateur de budget mensuel",
+    "description": "Fixez des limites, suivez vos dépenses et gardez le contrôle.",
+    "noBudget": "Aucun budget défini."
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "currency": "Devise",
+    "darkMode": "Mode sombre",
+    "version": "Version"
+  },
+  "labels": {
+    "expense": "Dépense",
+    "income": "Revenu",
+    "date": "Date",
+    "amount": "Montant",
+    "note": "Note",
+    "category": "Catégorie",
+    "categories": "Catégories",
+    "total": "Total",
+    "spent": "Dépensé",
+    "remaining": "Restant",
+    "name": "Nom",
+    "email": "Email",
+    "password": "Mot de passe"
+  },
+  "actions": {
+    "save": "Enregistrer",
+    "logout": "Déconnexion",
+    "signIn": "Se connecter",
+    "createAccount": "Créer un compte",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "delete": "Supprimer",
+    "update": "Mettre à jour"
+  }
+}

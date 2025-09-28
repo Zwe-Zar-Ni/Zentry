@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "loginTitle": "계정 로그인",
+    "registerTitle": "새 계정 만들기",
+    "loginLoading": "로그인 중...",
+    "registerLoading": "계정 생성 중...",
+    "noAccount": "계정이 없으신가요?",
+    "haveAccount": "이미 계정이 있으신가요?"
+  },
+  "home": {
+    "noTransactions": "거래 내역이 없습니다",
+    "addTransaction": "＋ 아이콘을 눌러 새 거래 추가",
+    "confirmDelete": "이 거래를 삭제하시겠습니까?"
+  },
+  "stats": {
+    "title": "통계",
+    "monthlyChart": "월별 지출 분석",
+    "monthlyDescription": "예산 결정을 개선하기 위해 월별 지출을 비교해 보세요",
+    "overTime": "시간별 지출 추이",
+    "overTimeDescription": "지출 패턴을 추적하여 경향을 파악하고 합리적인 재정 결정을 내리세요"
+  },
+  "budget": {
+    "title": "월간 예산 플래너",
+    "description": "한도를 설정하고 지출을 추적하여 통제하세요",
+    "noBudget": "설정된 예산이 없습니다"
+  },
+  "settings": {
+    "title": "설정",
+    "language": "언어",
+    "currency": "통화",
+    "darkMode": "다크 모드",
+    "version": "버전"
+  },
+  "labels": {
+    "expense": "지출",
+    "income": "수입",
+    "date": "날짜",
+    "amount": "금액",
+    "note": "메모",
+    "category": "카테고리",
+    "categories": "카테고리 목록",
+    "total": "총계",
+    "spent": "사용됨",
+    "remaining": "남음",
+    "name": "이름",
+    "email": "이메일",
+    "password": "비밀번호"
+  },
+  "actions": {
+    "save": "저장",
+    "logout": "로그아웃",
+    "signIn": "로그인",
+    "createAccount": "계정 생성",
+    "cancel": "취소",
+    "confirm": "확인",
+    "delete": "삭제",
+    "update": "업데이트"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "loginTitle": "Inicia sesión en tu cuenta",
+    "registerTitle": "Crear una nueva cuenta",
+    "loginLoading": "Iniciando sesión...",
+    "registerLoading": "Creando cuenta...",
+    "noAccount": "¿No tienes una cuenta?",
+    "haveAccount": "¿Ya tienes una cuenta?"
+  },
+  "home": {
+    "noTransactions": "No se encontraron transacciones.",
+    "addTransaction": "Haz clic en el icono más para agregar una nueva transacción.",
+    "confirmDelete": "¿Estás seguro de que deseas eliminar esta transacción?"
+  },
+  "stats": {
+    "title": "Estadísticas",
+    "monthlyChart": "Análisis de gastos mensuales",
+    "monthlyDescription": "Compara tus gastos mes a mes para mejorar tus decisiones de presupuesto.",
+    "overTime": "Tus gastos a lo largo del tiempo",
+    "overTimeDescription": "Sigue tus patrones de gasto para identificar tendencias y tomar decisiones financieras informadas."
+  },
+  "budget": {
+    "title": "Planificador de presupuesto mensual",
+    "description": "Establece límites, controla tus gastos y mantén el control.",
+    "noBudget": "No hay presupuesto establecido."
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language": "Idioma",
+    "currency": "Moneda",
+    "darkMode": "Modo oscuro",
+    "version": "Versión"
+  },
+  "labels": {
+    "expense": "Gasto",
+    "income": "Ingreso",
+    "date": "Fecha",
+    "amount": "Cantidad",
+    "note": "Nota",
+    "category": "Categoría",
+    "categories": "Categorías",
+    "total": "Total",
+    "spent": "Gastado",
+    "remaining": "Restante",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "password": "Contraseña"
+  },
+  "actions": {
+    "save": "Guardar",
+    "logout": "Cerrar sesión",
+    "signIn": "Iniciar sesión",
+    "createAccount": "Crear cuenta",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "delete": "Eliminar",
+    "update": "Actualizar"
+  }
+}

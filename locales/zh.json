@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "loginTitle": "登录您的账户",
+    "registerTitle": "创建新账户",
+    "loginLoading": "登录中...",
+    "registerLoading": "创建账户中...",
+    "noAccount": "没有账户？",
+    "haveAccount": "已有账户？"
+  },
+  "home": {
+    "noTransactions": "未找到交易记录",
+    "addTransaction": "点击加号图标添加新交易",
+    "confirmDelete": "确定删除此交易吗？"
+  },
+  "stats": {
+    "title": "统计数据",
+    "monthlyChart": "月度支出分析",
+    "monthlyDescription": "对比月度支出，优化预算决策",
+    "overTime": "长期支出趋势",
+    "overTimeDescription": "追踪支出模式，识别趋势并制定明智的财务决策"
+  },
+  "budget": {
+    "title": "月度预算计划",
+    "description": "设置限额，追踪支出，掌控财务状况",
+    "noBudget": "未设置预算"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "currency": "货币",
+    "darkMode": "深色模式",
+    "version": "版本"
+  },
+  "labels": {
+    "expense": "支出",
+    "income": "收入",
+    "date": "日期",
+    "amount": "金额",
+    "note": "备注",
+    "category": "分类",
+    "categories": "分类列表",
+    "total": "总计",
+    "spent": "已花费",
+    "remaining": "剩余",
+    "name": "姓名",
+    "email": "邮箱",
+    "password": "密码"
+  },
+  "actions": {
+    "save": "保存",
+    "logout": "退出登录",
+    "signIn": "登录",
+    "createAccount": "创建账户",
+    "cancel": "取消",
+    "confirm": "确认",
+    "delete": "删除",
+    "update": "更新"
+  }
+}
